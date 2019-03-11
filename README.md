@@ -1,1 +1,3 @@
-itp_ruby_exer
+### ITP March 2019 Craft Academy
+
+Ruby exercises
